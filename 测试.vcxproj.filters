@@ -15,25 +15,11 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C:\Users\HP\Desktop\QG训练营\第一周\测试\qgforwardlist.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="sqstack.hpp">
       <Filter>头文件</Filter>
     </ClCompile>
     <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="C:\Users\HP\Desktop\QG训练营\第一周\测试\qgforwardlist.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="C:\Users\HP\Desktop\QG训练营\栈以及栈的应用\栈\代码和头文件\head\LinkStack.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="C:\Users\HP\Desktop\QG训练营\栈以及栈的应用\栈\代码和头文件\head\aaaaa.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
