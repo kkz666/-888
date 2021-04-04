@@ -22,6 +22,9 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="sqstack.hpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\HP\Desktop\QG训练营\栈以及栈的应用\栈\代码和头文件\head\LinkStack.hpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
